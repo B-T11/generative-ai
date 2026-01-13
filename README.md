@@ -12,6 +12,7 @@ This repository contains notebooks, code samples, sample apps, and other resourc
 
 ## Using this repository
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3bdc282e733a4d7cb1df216c3080f379)](https://app.codacy.com/gh/B-T11/generative-ai?utm_source=github.com&utm_medium=referral&utm_content=B-T11/generative-ai&utm_campaign=Badge_Grade)
 [![Applied AI Summit: The cloud toolkit for generative AI](https://img.youtube.com/vi/xT7WW2SKLfE/hqdefault.jpg)](https://www.youtube.com/watch?v=xT7WW2SKLfE)
 
 <table>
