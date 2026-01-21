@@ -5,3 +5,4 @@ uvicorn>=0.32.1
 google-genai
 nest_asyncio
 google-cloud-translate
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
