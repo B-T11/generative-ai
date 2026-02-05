@@ -23,3 +23,4 @@ google-cloud-tasks
 google-cloud-logging
 google-cloud-speech
 python-multipart
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
