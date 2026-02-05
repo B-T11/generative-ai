@@ -11,3 +11,4 @@ langchain-core==0.3.9
 langchain-google-vertexai==2.0.4
 langchain-google-community==2.0.1
 pdfminer.six==20240706
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
